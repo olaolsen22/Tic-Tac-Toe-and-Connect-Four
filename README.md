@@ -1,2 +1,6 @@
 # Tic-Tac-Toe-and-Connect-Four
-A final requirement for our 6OOPL (Object-Oriented Programming Language) course at Holy Angel University. Developed using Unity 3D's engine.
+
+Developed using Unity 3D's engine.
+
+Watch the gameplay here:
+https://www.youtube.com/watch?v=A3HmP_sXawI
